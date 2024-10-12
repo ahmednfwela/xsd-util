@@ -1,0 +1,15 @@
+{
+  "url": "https://github.com/ahmednfwela/xsd-util/releases/download/v1.0.0/xsd.exe",
+  "description": "The XML Schema Definition (Xsd.exe) tool generates XML schema or common language runtime classes from XDR, XML, and XSD files, or from classes in a runtime assembly.",
+  "bin": "xsd.exe",
+  "autoupdate": {
+    "url": "https://github.com/ahmednfwela/xsd-util/releases/download/v$version/xsd.exe"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/ahmednfwela/xsd-util",
+  "hash": "12AD04A7C16DAF4830BD62659A74EB237EDCA55C90E7A67F63E47D37398BC52B",
+  "version": "v1.0.0",
+  "checkver": {
+    "github": "https://github.com/ahmednfwela/xsd-util"
+  }
+}
